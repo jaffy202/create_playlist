@@ -1,10 +1,10 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = '8f55cbb305b544ef806f9e00b2f7221b'
-CLIENT_SECRET = 'b9da22ea8c60469cbb882a0cd4653338'
+CLIENT_ID = 'client id'
+CLIENT_SECRET = 'client secret'
 REDIRECT_URI = 'http://example.com'
-user = 'jaffy'
+user = 'username'
 
 
 class Playlist:
